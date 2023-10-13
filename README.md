@@ -28,6 +28,10 @@ https://github.com/RoyalShooter/Forza-Motorsport-Moza-R5ES-Mapping/releases/tag/
 
 ![](https://imgur.com/yZMwPn4.png)
 
+## Mapping:
+
+![](https://i.imgur.com/mCjBiLD.png)
+
 ## Todo
 
 - Premap handbreak and shifter
