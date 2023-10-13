@@ -30,7 +30,7 @@ https://github.com/RoyalShooter/Forza-Motorsport-Moza-R5ES-Mapping/releases/tag/
 
 ## Mapping:
 
-![](https://i.imgur.com/mCjBiLD.png)
+![](https://i.imgur.com/ME8r6ZO.png)
 
 ## Todo
 
