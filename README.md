@@ -36,3 +36,13 @@ https://github.com/RoyalShooter/Forza-Motorsport-Moza-R5ES-Mapping/releases/tag/
 
 If you have any questions or find any bugs. Create a ticket on the issues page.
 https://github.com/RoyalShooter/Forza-Motorsport-Moza-R5ES-Mapping/issues
+
+## Q&A:
+
+*Why is my profile name **InputUINames:<unknown>** ?*
+
+It is normal if the profile name shows as `InputUINames:<unknown>` , since the game is somehow preventing me from adding a new profile directly, I have to modify a blank template to make it work.
+
+*Clutch not working ?*
+
+Well, I have the SRP lite bundle and I don't have a Clutch to test, I just temporarily assigned an axis to hope for the best. I will fix this in the future when I purchase a clutch. For now, you could change the binding yourself with my template by pressing enter on the input page.
