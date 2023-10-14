@@ -13,6 +13,7 @@ Download from the release page
 https://github.com/RoyalShooter/Forza-Motorsport-Moza-R5ES-Mapping/releases/tag/latest
 
 1. Place the file in the following path:
+change the location according to your game location.
 
 > For XGP version:
 > 
