@@ -10,7 +10,12 @@ Shifter and Handbrake is not mapped for the current file, since I don't have tha
 
 Download from the release page
 
-https://github.com/RoyalShooter/Forza-Motorsport-Moza-R5ES-Mapping/releases/tag/latest
+[Release Release 1.1 · RoyalShooter/Forza-Motorsport-Moza-R5ES-Mapping · GitHub](https://github.com/RoyalShooter/Forza-Motorsport-Moza-R5ES-Mapping/releases/tag/latest)
+
+OR:
+
+!NEW! : if you have HGP shifter installed, download the v1.2 version. 
+[Release Release 1.2 · RoyalShooter/Forza-Motorsport-Moza-R5ES-Mapping · GitHub](https://github.com/RoyalShooter/Forza-Motorsport-Moza-R5ES-Mapping/releases/tag/Pre-release)
 
 1. Place the file in the following path:<br>
   change the location according to your game location.
