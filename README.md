@@ -14,7 +14,7 @@ Download from the release page
 
 OR:
 
-!NEW! : if you have HGP shifter installed, download the v1.2 version. 
+!NEW! : if you have HGP shifter installed, download the v1.2 version. <br>
 [Release Release 1.2 · RoyalShooter/Forza-Motorsport-Moza-R5ES-Mapping · GitHub](https://github.com/RoyalShooter/Forza-Motorsport-Moza-R5ES-Mapping/releases/tag/Pre-release)
 
 1. Place the file in the following path:<br>
