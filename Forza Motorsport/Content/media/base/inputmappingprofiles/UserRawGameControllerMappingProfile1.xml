@@ -53,14 +53,23 @@
     <!-- Key = INPUTCMD_LOOK_STRAIGHT_BACK, MOZA R5ES Button 25 -->
     <Value Version="2" Key="13" VidPid="879624196" InputType="Button" Index="24" />
 
-    <!-- Key = INPUTCMD_GEAR_REVERSE, MOZA R9CS NOT ASSIGNED -->
-    <!-- Key = INPUTCMD_GEAR_FIRST, MOZA R9CS NOT ASSIGNED -->
-    <!-- Key = INPUTCMD_GEAR_SECOND, MOZA R9CS NOT ASSIGNED -->
-    <!-- Key = INPUTCMD_GEAR_THIRD, MOZA R9CS NOT ASSIGNED -->
-    <!-- Key = INPUTCMD_GEAR_FOURTH, MOZA R9CS NOT ASSIGNED -->
-    <!-- Key = INPUTCMD_GEAR_FIFTH, MOZA R9CS NOT ASSIGNED -->
-    <!-- Key = INPUTCMD_GEAR_SIXTH, MOZA R9CS NOT ASSIGNED -->
-    <!-- Key = INPUTCMD_GEAR_SEVENTH, MOZA R9CS NOT ASSIGNED -->
+
+    <!-- Key = INPUTCMD_GEAR_REVERSE, MOZA HGP Button 5 -->
+    <Value Version="2" Key="172" VidPid="879624222" InputType="Button" Index="4" />
+    <!-- Key = INPUTCMD_GEAR_FIRST, MOZA HGP Button 6 -->
+    <Value Version="2" Key="172" VidPid="879624222" InputType="Button" Index="5" />
+    <!-- Key = INPUTCMD_GEAR_SECOND, MOZA HGP Button 7 -->
+    <Value Version="2" Key="172" VidPid="879624222" InputType="Button" Index="6" />
+    <!-- Key = INPUTCMD_GEAR_THIRD, MOZA HGP Button 8 -->
+    <Value Version="2" Key="172" VidPid="879624222" InputType="Button" Index="7" />
+    <!-- Key = INPUTCMD_GEAR_FOURTH, MOZA HGP Button 9 -->
+    <Value Version="2" Key="172" VidPid="879624222" InputType="Button" Index="8" />
+    <!-- Key = INPUTCMD_GEAR_FIFTH, MOZA HGP Button 10 -->
+    <Value Version="2" Key="172" VidPid="879624222" InputType="Button" Index="9" />
+    <!-- Key = INPUTCMD_GEAR_SIXTH, MOZA HGP Button 11 -->
+    <Value Version="2" Key="172" VidPid="879624222" InputType="Button" Index="10" />
+    <!-- Key = INPUTCMD_GEAR_SEVENTH, MOZA HGP Button 12 -->
+    <Value Version="2" Key="172" VidPid="879624222" InputType="Button" Index="11" />
     <!-- Key = INPUTCMD_GEAR_EIGHTH, MOZA R9CS NOT ASSIGNED -->
   </Context>
 
