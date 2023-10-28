@@ -52,4 +52,4 @@ It is normal if the profile name shows as `InputUINames:<unknown>` , since the g
 
 Well, I have the SRP lite bundle and I don't have a Clutch to test, I just temporarily assigned an axis to hope for the best. I will fix this in the future when I purchase a clutch. For now, you could change the binding yourself with my template by pressing enter on the input page.
 
-### Special Thanks to **[vkyrasa](https://github.com/vkyrasa)** for adding Shifter mapping.
+### Special Thanks to **[vkyrasa](https://github.com/vkyrasa)** for adding Shifter mapping.
